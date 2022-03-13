@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "Hello World!";
+  return 0;
+}
+
+Hello World!
+Process returned 0 (0x0) execution time : 0.011 s
+Press any key to continue.
+
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "Hello World!";
+  return 0;
+}
+Result:
+
+Hello World!
